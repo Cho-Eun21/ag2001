@@ -1,8 +1,9 @@
+/* In file game.c */
+
 #include <stdio.h>
 
 int main(void)
 {
-	printf("game\n");
-	printf("hi"\n);
+	printf("hello, game\n");
 	return 0;
 }
